@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Experience_Years,Education_Level,Age,Gender,City,Monthly_Salary
+1,Employee_1,Marketing,15,Master,53,Female,Delhi,111416
+2,Employee_2,Operations,7,Bachelor,25,Female,Bangalore,95271
+3,Employee_3,IT,12,High School,51,Female,Hyderabad,69064
+4,Employee_4,Operations,8,PhD,44,Male,Delhi,95091
+6,Employee_6,Finance,3,High School,50,Male,Mumbai,65818
+7,Employee_7,IT,14,PhD,57,Male,Mumbai,70525
+8,Employee_8,IT,17,PhD,34,Female,Bangalore,44830
+9,Employee_9,IT,4,Bachelor,53,Male,Hyderabad,42429
+10,Employee_10,Operations,18,High School,28,Male,Mumbai,31893
+11,Employee_11,Marketing,8,PhD,43,Male,Delhi,141381
